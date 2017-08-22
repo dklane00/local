@@ -1,1 +1,2 @@
-# hello-world
+# Hello
+Greet the user
